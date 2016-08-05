@@ -1,0 +1,24 @@
+{
+  "name": "ionic-tabs-my",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wushaowei001/ionic-tabs-my.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wushaowei001/ionic-tabs-my/issues"
+  },
+  "homepage": "https://github.com/Wushaowei001/ionic-tabs-my#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-ruby-sass": "^2.0.6"
+  }
+}
